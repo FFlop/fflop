@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Flop aka Andrew
+### Hi there 👋, My name is Flop aka Andrew ( i preffer Flop)
 
 I love Python, JS, HTML, CSS, Docker and Linux.
 
