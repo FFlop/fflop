@@ -4,7 +4,7 @@ I love Python, Javascript, Html, Css, Docker and Linux.
 
 🔭 I’m currently working on utilitybot a discordbot with many utilitys and commands to manage your server
 
-🌱 I’m currently learning JavaScript,docker,docker-compose, and cloud computing
+🌱 I’m currently learning JavaScript, docker, docker-compose, and cloud computing
 
 👯 I’m looking to collaborate on basically anything related to python
 
