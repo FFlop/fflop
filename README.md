@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Flop aka Andrew
 
-I love Python, Javascript, Html, Css, Docker and Linux.
+I love Python, JS, HTML, CSS, Docker and Linux.
 
 🔭 I’m currently working on utilitybot a discordbot with many utilitys and commands to manage your server
 
