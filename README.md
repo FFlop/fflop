@@ -20,7 +20,7 @@ I love python, javascript, html, css
 
 ### Skills
 
-Python, SQL, Docker, Linux, Cloud Computing
+Python, SQL, Docker, Linux, Cloud Computing.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFlop&hide=javascript,html)
 
