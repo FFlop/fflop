@@ -1,22 +1,19 @@
-### Hi there 👋, My name is T-taku.
-#### こんにちは、T-takuです。你好，我是T-taku。
-I love CSS and Python!
+### Hi there 👋, My name is Flop aka Andrew
 
-Skills: HTML/CSS/Python/Jekyll/Adobe XD
+I love python, javascript, html, css
 
-🔭 I’m currently working on Japanese Scratch-Wiki, Discord bots(Yudzuki and TakuTukirou).
+🔭 I’m currently working on utilitybot a discordbot with many utilitys and commands to manage your server
 
-🌱 I’m currently learning JavaScript,English,Chinese,Material-UI...
+🌱 I’m currently learning JavaScript,docker,docker-compose
 
-👯 I’m looking to collaborate on Yudzuki,Scratch Wiki,TakuTukirou. 
+👯 I’m looking to collaborate on basically anything related to python
 
-📫 How to reach me: Twitter,Mail(info@t-taku.jp)... 
+📫 How to reach me: I preffer discord so add me @Flop#7234. 
 
-😄 Pronouns: You can use "He" or "Taku" for me. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/T-taku)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/T_taku0427)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://t-taku.jp)  
 
-![Profile views](https://gpvc.arturio.dev/T-taku)  
+![Profile views](https://gpvc.arturio.dev/FFlop  
 
 ![T-taku's github stats](https://github-readme-stats.vercel.app/api?username=T-taku&show_icons=true&theme=merko)
 
