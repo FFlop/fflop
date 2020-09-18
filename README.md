@@ -13,7 +13,7 @@ I love python, javascript, html, css
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/T-taku)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/T_taku0427)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://t-taku.jp)  
 
-![Profile views](https://gpvc.arturio.dev/FFlop  
+![Profile views](https://gpvc.arturio.dev/FFlop)
 
 ![T-taku's github stats](https://github-readme-stats.vercel.app/api?username=T-taku&show_icons=true&theme=merko)
 
