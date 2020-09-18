@@ -22,6 +22,6 @@ I love python, javascript, html, css
 
 Python, discordbots, SQL, Docker
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFlopu&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFlop&hide=javascript,html)
 
 
