@@ -4,7 +4,7 @@ I love python, javascript, html, css
 
 🔭 I’m currently working on utilitybot a discordbot with many utilitys and commands to manage your server
 
-🌱 I’m currently learning JavaScript,docker,docker-compose
+🌱 I’m currently learning JavaScript,docker,docker-compose, and cloud computing
 
 👯 I’m looking to collaborate on basically anything related to python
 
@@ -20,7 +20,7 @@ I love python, javascript, html, css
 
 ### Skills
 
-Python, discordbots, SQL, Docker
+Python, SQL, Docker, Linux, Cloud Computing
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFlop&hide=javascript,html)
 
