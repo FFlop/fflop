@@ -13,8 +13,10 @@ I love Python, JS, HTML, CSS, Docker and Linux.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FFlop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Flop)  
 
+
 ![Profile views](https://gpvc.arturio.dev/FFlop)
 
+My stats
 ![Flops github stats](https://github-readme-stats.vercel.app/api?username=FFlop&show_icons=true&theme=merko)
 
 
