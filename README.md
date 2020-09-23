@@ -23,7 +23,7 @@ I love Python, JS, HTML, CSS, Docker and Linux.
 
 ### Skills
 
-Python, SQL, Docker, Linux, Cloud Computing, HTML, CSS.
+Python, Docker, Docker Compose, HTML, CSS, SQL, discord.py
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFlop&hide=javascript,html)
 
