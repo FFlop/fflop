@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Flop aka Andrew ( i preffer Flop)
+### Hi there 👋, My name is Flop aka Andrew 
 
-I love Python, JS, HTML, CSS, Docker and Linux.
+I love Progamming in python and much more!
 
 🔭 I’m currently working on utilitybot a discordbot.. 
 
