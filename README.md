@@ -2,11 +2,11 @@
 
 I love Progamming in python and much more!
 
-🔭 I’m currently working on utilitybot a discordbot.. 
+🔭 I’m currently working on a discordbot with my team
 
-🌱 I’m currently learning JavaScript, Docker, Docker-Compose, Cloud Computing
+🌱 I’m currently learning JavaScript, Docker, Docker-Compose, Cloud Computing, Node.js
 
-👯 I’m looking to collaborate on basically anything related to python
+👯 I’m looking to collaborate on lots of projects on python
 
 📫 How to reach me: i use discord alot so you can add me @Flop#7234 but you can also check out my twitter..
 
