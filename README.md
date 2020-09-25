@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Flop aka Andrew 
 
-I love Progamming in python and much more!
+I love Progamming in Python, tinkering with arduino's and RPI'S.
 
 🔭 I’m currently working on a discordbot with my team
 
