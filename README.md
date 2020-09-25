@@ -23,7 +23,7 @@ I love Progamming in python and much more!
 
 ### Skills
 
-Python, Docker, Docker Compose, HTML, CSS, SQL, discord.py
+Python, Docker, Linux, HTML, CSS, Docker-Compose, Discord-Bots
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFlop&hide=javascript,html)
 
