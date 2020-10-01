@@ -2,7 +2,7 @@
 
 I love Progamming in Python, tinkering with arduino's and RPI'S.
 
-🔭 I’m currently working on a discordbot with my team
+🔭 I’m currently working on a discordbot with @PineappleRind and With @The_Coding_Guru
 
 🌱 I’m currently learning JavaScript, Docker, Docker-Compose, Cloud Computing, Node.js
 
