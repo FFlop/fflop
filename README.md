@@ -23,7 +23,7 @@ I love Progamming in Python, tinkering with arduino's and RPI'S.
 
 ### Skills
 
-Python, Docker, Linux, HTML, CSS, Docker-Compose, Discord-Bots, Git, 
+Python, Linux, Docker, SQL, Flask, Docker-Compose, HTML, CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFlop&hide=javascript,html)
 
