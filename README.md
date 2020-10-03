@@ -6,7 +6,7 @@ I love Progamming in Python, tinkering with arduino's and RPI'S.
 
 🌱 I’m currently learning JavaScript, Docker, Docker-Compose, Cloud Computing, Node.js
 
-👯 I’m looking to collaborate on lots of projects on python
+👯 I’m looking to collaborate on lots of projects on python.
 
 📫 How to reach me: Usually ill be alot more active on my discord so add Flop#7234 but you can also checkout my twitter
 
