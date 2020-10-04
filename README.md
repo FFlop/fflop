@@ -23,7 +23,7 @@ I love Progamming in Python, tinkering with arduino's and RPI'S.
 
 ### Technologies I know and use:
 
-Python, HTML, CSS, Linux, Docker, Docker-Compose, Cloud-Computing, SQL
+Python, HTML, CSS, Linux, Docker, Docker-Compose, Cloud-Computing, SQL, Github, Git
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFlop&hide=javascript,html)
 
