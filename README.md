@@ -21,9 +21,9 @@ I love Progamming in Python, tinkering with arduino's and RPI'S.
 ![Flops github stats](https://github-readme-stats.vercel.app/api?username=FFlop&show_icons=true&theme=merko)
 
 
-### Skills
+### Technologies i know and use
 
-Python, Linux, Docker, SQL, Flask, Docker-Compose, HTML, CSS
+Python, HTML, CSS, Linux, Docker, Docker-Compose, Cloud-Computing, SQL
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFlop&hide=javascript,html)
 
